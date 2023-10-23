@@ -11,3 +11,6 @@
 - google
 - 阿里云 CDN
 - 百度智能云CDN
+
+  如要增加其它CDN或WAF 请更新：
+https://github.com/mabangde/cdncheck-china/blob/main/sources_data.json 文件并重新编译
