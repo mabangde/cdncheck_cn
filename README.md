@@ -11,4 +11,4 @@
   
 
   如要增加其它CDN或WAF 请更新：
-https://github.com/mabangde/cdncheck-china/blob/main/sources_data.json 文件并重新编译
+sources_data.json 文件并重新编译
